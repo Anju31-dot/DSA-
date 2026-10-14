@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anju31-dot/DSA-/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/Anju31-dot/DSA-/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Anju31-dot/DSA-/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
