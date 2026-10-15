@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anju31-dot/DSA-/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
 ## Depth-First Search
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
+| [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
