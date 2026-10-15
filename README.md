@@ -70,13 +70,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
