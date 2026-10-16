@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Anju31-dot/DSA-/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Anju31-dot/DSA-/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
