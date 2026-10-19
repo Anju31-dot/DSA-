@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anju31-dot/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anju31-dot/DSA-/tree/master/0198-house-robber) |
+| [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
