@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anju31-dot/DSA-/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/Anju31-dot/DSA-/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/Anju31-dot/DSA-/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anju31-dot/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anju31-dot/DSA-/tree/master/0198-house-robber) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Anju31-dot/DSA-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Anju31-dot/DSA-/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/Anju31-dot/DSA-/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Anju31-dot/DSA-/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
