@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anju31-dot/DSA-/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anju31-dot/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anju31-dot/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anju31-dot/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Depth-First Search
