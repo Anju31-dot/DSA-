@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anju31-dot/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anju31-dot/DSA-/tree/master/0200-number-of-islands) |
+| [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
 ## Counting
 |  |
 | ------- |
@@ -158,4 +160,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Anju31-dot/DSA-/tree/master/0264-ugly-number-ii) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
