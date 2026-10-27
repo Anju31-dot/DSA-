@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Anju31-dot/DSA-/tree/master/0197-rising-temperature) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Anju31-dot/DSA-/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
