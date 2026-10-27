@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anju31-dot/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anju31-dot/DSA-/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Anju31-dot/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Anju31-dot/DSA-/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Depth-First Search
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Anju31-dot/DSA-/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Anju31-dot/DSA-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Anju31-dot/DSA-/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
