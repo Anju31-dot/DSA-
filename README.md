@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anju31-dot/DSA-/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/Anju31-dot/DSA-/tree/master/0307-range-sum-query-mutable) |
+| [0410-split-array-largest-sum](https://github.com/Anju31-dot/DSA-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anju31-dot/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anju31-dot/DSA-/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Anju31-dot/DSA-/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/Anju31-dot/DSA-/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/Anju31-dot/DSA-/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Anju31-dot/DSA-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anju31-dot/DSA-/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -185,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Anju31-dot/DSA-/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
