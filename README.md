@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Anju31-dot/DSA-/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/Anju31-dot/DSA-/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anju31-dot/DSA-/tree/master/0046-permutations) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Anju31-dot/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anju31-dot/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anju31-dot/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Anju31-dot/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Anju31-dot/DSA-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
