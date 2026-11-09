@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anju31-dot/DSA-/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Anju31-dot/DSA-/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 ## Stack
 |  |
