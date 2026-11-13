@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/Anju31-dot/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Anju31-dot/DSA-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Anju31-dot/DSA-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Anju31-dot/DSA-/tree/master/0200-number-of-islands) |
@@ -128,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/Anju31-dot/DSA-/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anju31-dot/DSA-/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/Anju31-dot/DSA-/tree/master/0110-balanced-binary-tree) |
 ## Bidirectional Search
 |  |
 | ------- |
