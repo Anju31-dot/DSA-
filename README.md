@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anju31-dot/DSA-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anju31-dot/DSA-/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Anju31-dot/DSA-/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Anju31-dot/DSA-/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Anju31-dot/DSA-/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anju31-dot/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anju31-dot/DSA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anju31-dot/DSA-/tree/master/0198-house-robber) |
