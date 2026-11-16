@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Anju31-dot/DSA-/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Anju31-dot/DSA-/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Anju31-dot/DSA-/tree/master/0127-word-ladder) |
+| [0171-excel-sheet-column-number](https://github.com/Anju31-dot/DSA-/tree/master/0171-excel-sheet-column-number) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Anju31-dot/DSA-/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Anju31-dot/DSA-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Anju31-dot/DSA-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
