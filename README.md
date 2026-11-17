@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anju31-dot/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Anju31-dot/DSA-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anju31-dot/DSA-/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Anju31-dot/DSA-/tree/master/0072-edit-distance) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anju31-dot/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Anju31-dot/DSA-/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Anju31-dot/DSA-/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Anju31-dot/DSA-/tree/master/0072-edit-distance) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anju31-dot/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Anju31-dot/DSA-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Anju31-dot/DSA-/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anju31-dot/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anju31-dot/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Anju31-dot/DSA-/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Anju31-dot/DSA-/tree/master/0410-split-array-largest-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anju31-dot/DSA-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
